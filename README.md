@@ -5,7 +5,7 @@ Complete Statistics for Machine Learning in Nutshell
                Measure of Dispersion (Variance,Std Dev)
                Stats & Its Types : Descriptive | Inferential with  Examples
                Population & Sample
-               Sampling Techniques : Random, Stratified, Convinience, Systematic
+               Sampling Techniques : Random, Stratified, Convenience, Systematic
                Variable & Its Types
                Quantitative Variable : Discrete | Continuous
                Qualitative/categorical variable : Property Based
@@ -13,4 +13,10 @@ Complete Statistics for Machine Learning in Nutshell
                Variance || Standard Deviation : Normal Distribution curve as reference
                Percentiles & Quartiles
                Five Number Summary : Box Plot & Outliers
+               
+
+               Normal Distribution Curve (Gaussian distribution) Bell Curve
+               Central Limit Theorem
+               Log-Normal Distribution
+               Power Law (Pareto Distribution)
                
