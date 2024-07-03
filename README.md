@@ -20,3 +20,5 @@ Complete Statistics for Machine Learning in Nutshell
                Log-Normal Distribution
                Power Law (Pareto Distribution)
                
+
+Inferential: Hypothesis Testing
